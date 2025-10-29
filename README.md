@@ -107,6 +107,12 @@ To address these needs, I built **four interactive dashboards** with **dynamic v
 ✅ **Navigation Buttons** – App-like experience for smooth user journey  
 
 ---
-![WhatsApp Image 2025-10-27 at 10 24 23 AM](https://github.com/user-attachments/assets/51cdfbb2-56d5-4414-baa6-0f8501e6af4f)
+ScreenShorts
+
+![WhatsApp Image 2025-10-27 at 10 20 44 AM](https://github.com/user-attachments/assets/637b676e-02d2-4761-8175-886b1bbaf3ae)
+![WhatsApp Image 2025-10-27 at 10 20 45 AM](https://github.com/user-attachments/assets/29b87d57-1876-4309-b835-49c5ec662bf9)
+![WhatsApp Image 2025-10-27 at 10 20 46 AM](https://github.com/user-attachments/assets/5fcb46fe-37ab-4fea-ae24-df57e09ad8e1)
+![WhatsApp Image 2025-10-27 at 10 20 46 AM(1)](https://github.com/user-attachments/assets/e8264f82-b322-4476-af31-d7148d788278)
+![WhatsApp Image 2025-10-27 at 10 20 46 AM(2)](https://github.com/user-attachments/assets/9c1ad679-83dc-4562-b563-eb11c39cd9c1)
 
 
